@@ -14,6 +14,7 @@ const [btnName ,setBtnName] = useState('Login')
           <li><Link to="/about">About</Link></li>
           <li><Link to="/contact">Contact Us</Link></li>
           <li>Cart</li>
+          <li><Link to="/grocery">Grocery</Link></li>
           <button className="login" type="submit" 
           onClick={()=>{btnName ==="Login" ? setBtnName('LogOut') : setBtnName('Login')
           }}>{btnName}</button>
