@@ -16,4 +16,10 @@
 
 - Here postcss is used to transform css while it is using in Javascript
 
-- After that use the command of 
+- After that use the command of  npx tailwindcss init
+
+- After that create postcssrc file in order to recognise tailwind 
+
+- After that configure css of @tailwind as per the documentation
+
+https://tailwindcss.com/docs/installation
