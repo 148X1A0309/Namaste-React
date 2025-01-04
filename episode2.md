@@ -105,5 +105,11 @@ These are the dependencies that your project directly uses. They are listed in t
 
 - Parcel removes the unwanted code while building by tree shaking method
 
+# Indepth knowledge on HMR
+
+# Hot Module Replacement - https://medium.com/js-imaginea/hot-module-replacement-8b634c2a4348
+
+
+
 
 
