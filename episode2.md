@@ -36,6 +36,8 @@ npm init
 
 eg: parcel has dependencies
 
+The tilde (~) restricts updates to patch versions for stability, while the caret (^) allows updates to both minor and patch versions, offering more flexibility without breaking changes.
+
 # Package-lock.json
 The purpose of package-lock.json is to ensure that the same dependencies are installed consistently across different environments, such as development and production environments
 

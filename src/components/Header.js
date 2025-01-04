@@ -1,4 +1,5 @@
 import { useState } from "react";
+import logo from '../../images/logo.jpeg'
 import { Link } from "react-router-dom";
 const Header = () => {
 
@@ -7,7 +8,7 @@ const [btnName ,setBtnName] = useState('Login')
       <div className="flex justify-between">
       <div className="header">
         <div className="logo-container">
-          <img className="logo" src="https://cdn.logojoy.com/wp-content//2018/05/01105934/1855.png"/>
+          <img className="logo w-22" src={logo}/>
         </div>
         </div>
         <div className="flex p-4">

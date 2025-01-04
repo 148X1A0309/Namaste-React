@@ -48,7 +48,7 @@ const RestaurantCard =(props) =>{
 //    <div>
 //      <h1>{name}</h1>
 //      <h3>{cuisines.join(',')}</h3> <span>{costForTwo}</span>
-//       <h3>Menu</h3>
+//       <h3>Menu</h3>x
 //       <ul>
 //           <li>Burger</li> 
 //           <li>Biryani</li>

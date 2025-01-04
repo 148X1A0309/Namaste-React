@@ -282,14 +282,6 @@ img, video {
   }
 }
 
-.m-4 {
-  margin: 1rem;
-}
-
-.ml-4 {
-  margin-left: 1rem;
-}
-
 .flex {
   display: flex;
 }
@@ -302,18 +294,9 @@ img, video {
   padding: 1rem;
 }
 
-.px-2 {
-  padding-left: .5rem;
-  padding-right: .5rem;
-}
-
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
-}
-
-.pl-4 {
-  padding-left: 1rem;
 }
 
 .filter {
